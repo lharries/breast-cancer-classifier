@@ -1,2 +1,4 @@
 # breast-cancer-classifier
-Using a decision tree to classify breast cancer tumours as benign or malignant
+Using a decision tree with hyperparamater tuning to classify breast cancer tumours as benign or malignant.
+
+
